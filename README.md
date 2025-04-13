@@ -1,0 +1,1 @@
+This project is a machine learning-based web application built using Flask and HTML for predicting breast cancer tumor types (malignant or benign). The app uses a trained model to classify tumor characteristics based on user input and display the prediction results. It provides an easy-to-use interface for entering data and receiving instant predictions.
